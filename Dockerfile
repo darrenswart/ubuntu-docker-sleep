@@ -1,4 +1,4 @@
-FROM docker pull ubuntu:20.04
+FROM ubuntu:20.04
 
 RUN apt-get install -y telnet
 
